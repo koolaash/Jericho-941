@@ -1,5 +1,5 @@
 
-# Glock 43X
+# Jericho 941
 
 A custom weapon for fivem!
 
@@ -12,7 +12,7 @@ A custom weapon for fivem!
 
 - Place in `ox_inventory/data/weapons.lua`
 ```lua
-    ['WEAPON_JERICHO941'] 			  = { label = 'Glock 43x',         weight = 1000,	durability = 0.0,	ammoname = 'ammo-45',},
+    ['WEAPON_JERICHO941'] 			  = { label = 'Jericho 941',         weight = 1000,	durability = 0.0,	ammoname = 'ammo-45',},
 ```
 
 # If using QBCore & qb-inventory
