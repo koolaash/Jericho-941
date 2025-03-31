@@ -19,11 +19,11 @@ A custom weapon for fivem!
 
 - Place in `qb-core/shared/items.lua`
 ```lua
-['weapon_jericho941'] 			     = {['name'] = 'weapon_jericho941', 			 	['label'] = 'Glock 22', 				['weight'] = 7000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'weapon_jericho941.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'pistol'},
+['weapon_jericho941'] 			     = {['name'] = 'weapon_jericho941', 			 	['label'] = 'Jericho 941', 				['weight'] = 7000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_PISTOL',			['image'] = 'weapon_jericho941.png', 						['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'pistol'},
 ```
 - Drop the next code in `qb-core/shared/weapons.lua`
 ```lua
-[`weapon_jericho941`] 		 = {['name'] = 'weapon_jericho941', 		['label'] = 'Glock 22', 			['ammotype'] = 'AMMO_PISTOL',	['damagereason'] = 'Pistoled / Blasted / Plugged / Bust a cap in'},
+[`weapon_jericho941`] 		 = {['name'] = 'weapon_jericho941', 		['label'] = 'Jericho 941', 			['ammotype'] = 'AMMO_PISTOL',	['damagereason'] = 'Pistoled / Blasted / Plugged / Bust a cap in'},
 ```
 - Drop the next code in `qb-weapons/config.lua`
 ```lua
