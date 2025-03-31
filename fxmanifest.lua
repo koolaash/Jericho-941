@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games {'gta5'}
 author 'kool_damon'
-description 'Custom glock 43x weapon'
+description 'Custom Jericho 941 pistol weapon'
 version '1.0.0'
 
 files{
